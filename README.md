@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+this is the thermal simulation report of the server power supply
